@@ -1,0 +1,36 @@
+#grf stuff
+STR_HANGZHOUMETRO_NAME			:Hangzhou Metro Lines
+STR_HANGZHOUMETRO_DESC			:Hangzhou Metro Set, welcome to my homepage https://github.com/tomatoma00/grf_hangzhoumetro , thanks for you suggestions! 
+
+#general
+STR_EMPTY					:
+STR_MIN_OTTD_VERSION		:1.6.0
+STR_REQUIRES_DYNAMIC		:It requires dynamic_engines to be enabled.
+STR_PARAM_PURCHASE			:Purchase costs
+STR_PARAM_RUNNING			:Running costs
+STR_PARAM_VERY_LOW			:Very low
+STR_PARAM_LOW				:Low
+STR_PARAM_DEFAULT			:Default
+STR_PARAM_HIGH				:High
+STR_PARAM_VERY_HIGH			:Very high
+
+#vehicles
+#general
+STR_NO_ATTACH				:Nothing can be attached to this train.
+STR_NO_ATTACH_MORE			:This train has reached its maximum length.
+STR_WRONG_ATTACH_TYPE		:This train type can't be attached.
+STR_ATTACH_SAME				:Sets of the same type can be attached, up to a maximum length of {STRING}.
+
+STR_6CAR					:(6-car)
+STR_8CAR					:(8-car)
+
+STR_NAME_LINE_1			:Hangzhou Line1 {STRING}
+STR_DESC_LINE_1			:xiaoshan international airport -- xianghu
+STR_NAME_LINE_2			:Hangzhou Line2 {STRING}
+STR_DESC_LINE_2			:liangzhu -- chaoyang
+STR_NAME_LINE_2LIKE			:Company color line2 {STRING}
+STR_DESC_LINE_2LIKE			:served in line 2,4,9,16
+STR_NAME_LINE_5			:Hangzhou Line5 {STRING}
+STR_DESC_LINE_5			:guniangqiao -- jinxing
+STR_NAME_LINE_5LIKE			:Company color line5 {STRING}
+STR_DESC_LINE_5LIKE			:served in line 3,5,6
